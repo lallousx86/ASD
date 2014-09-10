@@ -1,0 +1,19 @@
+; <----------AFTER---| |--------BEFORE--------->
+;                       L    R    B    N    S
+; CHAR                  B/R  L/N  B/R  L/N  L/N
+; NON-CHAR              R    N    R    N    N
+
+CHAR=L=B/R
+NCHAR=L=R
+
+CHAR=R=L/N
+NCHAR=R=N
+
+CHAR=B=B/R
+NCHAR=B=R
+
+CHAR=N=L/N
+NCHAR=N=N
+
+CHAR=S=L/N
+NCHAR=S=N

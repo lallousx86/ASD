@@ -1,0 +1,14 @@
+;PRE-PROCESSING FILE
+;charlist=onechar (located in bt)
+
+;lam-alef
+·«=O
+
+;lam-alef-hamze
+·√=P
+
+;lam-alef-hamze-down
+·≈=Q
+
+;lam-alef-madeh
+·¬=R

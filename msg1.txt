@@ -1,0 +1,31 @@
+Dear Elias:
+
+Per our phone conversation today, I am sending you the four test files that
+I have used to test the ASD program.  These are zipped together.  The files
+are listed below with the corresponding number of Lam-Aleph error
+occurrences.
+
+Avray.txt		(one error)
+Avray34.txt		(one error)
+Avray56.txt		(three errors)
+Avray78.txt		(one error)
+
+Note that I have edited these files and used a star (*) to indicate the
+line where the error was taking place to make easy for you to locate the
+line where the error is occuring.  The errors are as follows:
+
+Avray.txt	second Lam-Aleph in the line
+Avray34.txt	second Lam-Aleph in the line
+Avray56.txt	second Lam-Aleph in the line
+		second Lam-Aleph in the line
+		second Lam-Aleph in the line
+Avray78.txt	second Lam-Aleph in the line
+
+Please review the above files after you run them through the ASD program
+and let me know what you think.
+
+I will wait for your response.
+
+Thanks,
+
+Mike
